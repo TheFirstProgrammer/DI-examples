@@ -1,0 +1,3 @@
+C:\dv_courses\MethodInjection\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\dv_courses\MethodInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\dv_courses\MethodInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

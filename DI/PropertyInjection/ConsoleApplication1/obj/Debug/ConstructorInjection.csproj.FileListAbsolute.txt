@@ -1,0 +1,9 @@
+C:\dv_courses\ConsoleApplicationConstructorInjection\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\dv_courses\ConsoleApplicationConstructorInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\dv_courses\ConsoleApplicationConstructorInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\dv_courses\DependencyInjection\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\dv_courses\DependencyInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\dv_courses\DependencyInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\dv_courses\PropertyInjection\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\dv_courses\PropertyInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\dv_courses\PropertyInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

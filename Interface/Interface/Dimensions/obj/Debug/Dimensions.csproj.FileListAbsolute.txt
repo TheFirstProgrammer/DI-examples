@@ -1,0 +1,6 @@
+C:\dv_courses\Interface\Interface\Dimensions\bin\Debug\Dimensions.exe.config
+C:\dv_courses\Interface\Interface\Dimensions\bin\Debug\Dimensions.exe
+C:\dv_courses\Interface\Interface\Dimensions\bin\Debug\Dimensions.pdb
+C:\dv_courses\Interface\Interface\Dimensions\obj\Debug\Dimensions.csprojResolveAssemblyReference.cache
+C:\dv_courses\Interface\Interface\Dimensions\obj\Debug\Dimensions.exe
+C:\dv_courses\Interface\Interface\Dimensions\obj\Debug\Dimensions.pdb

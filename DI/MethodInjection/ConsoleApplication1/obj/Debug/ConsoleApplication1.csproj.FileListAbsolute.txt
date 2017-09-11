@@ -1,0 +1,9 @@
+C:\donvLearn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\donvLearn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\donvLearn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\donvLearn\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\donvLearn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\donvLearn\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\dv_courses\ConsoleApplicationMethodInjection\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\dv_courses\ConsoleApplicationMethodInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\dv_courses\ConsoleApplicationMethodInjection\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
